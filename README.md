@@ -1,3 +1,3 @@
 # library-prototype
-This is just a prototype for my library project. I am planning  to develop this project with Javascript and its frameworks.
-I will make some adjustments in the future. I am planning to add a button that reset the all data.
+This is just a prototype for my library project or it's just a practice field. I am planning to develop this project with Javascript and its frameworks.
+I'll keep making some adjustments in the future.
